@@ -4,6 +4,8 @@
 ![Uncorrected data](assets/greedy.gif)
 ## Registered volumes using patch-based algorithm. The left half of the gif is the algorithm output, and the right is the original unregistered data.
 
+![2D_R-SLAM](assets/r-slam_2d.gif)
+## Registered C-scans via R-SLAM. 
 
 ![MATLAB](assets/matlabvis.gif)
 ## Example of arbitrary surface slice for retinal volume. This MATLAB-based visualizer responds to user clicks and drags with no lag.
