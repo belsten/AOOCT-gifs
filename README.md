@@ -2,7 +2,7 @@
 ## Above is a series of 39 unregistered C-scans.
 
 ![Uncorrected data](assets/greedy_output_subset.gif)
-## 11 registered C-scans using patch-based algorithm.
+## 11 registered C-scans using patch-based algorithm. Left side is algorithm output and right side is original frames.
 
 ![Uncorrected data](assets/greedy_output_all.gif)
 ## All 39 registered C-scans using patch-based algorithm.
