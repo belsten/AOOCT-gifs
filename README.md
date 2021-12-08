@@ -1,8 +1,11 @@
 ![Uncorrected data](assets/c-scan_movie.gif)
 ## Above is a series of 39 unregistered C-scans.
 
-![Uncorrected data](assets/greedy.gif)
-## Registered volumes using patch-based algorithm. The left half of the gif is the algorithm output, and the right is the original unregistered data.
+![Uncorrected data](assets/greedy_output_subset.gif)
+## 11 registered C-scans using patch-based algorithm.
+
+![Uncorrected data](assets/greedy_output_all.gif)
+## All 39 registered C-scans using patch-based algorithm.
 
 ![2D_R-SLAM](assets/r-slam_2d.gif)
 ## Registered C-scans via R-SLAM. 
